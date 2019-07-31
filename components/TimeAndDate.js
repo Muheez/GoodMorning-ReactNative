@@ -54,6 +54,7 @@ export default class TimeAndDate extends Component {
 
 const styles = StyleSheet.create({
     container: {
+        flex: 1,
         position: "relative",
         paddingHorizontal: 78,
         paddingTop: 49
