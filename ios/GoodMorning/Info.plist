@@ -58,6 +58,18 @@
 		<string>Eina03-bold.ttf</string>
 		<string>Eina03-regular.ttf</string>
 		<string>Eina03-semibold.ttf</string>
+		<string>MaisonNeue-Bold.ttf</string>
+		<string>MaisonNeue-Book.ttf</string>
+		<string>MaisonNeue-Demi.ttf</string>
+		<string>MaisonNeue-Light.ttf</string>
+		<string>MaisonNeue-Medium.ttf</string>
+		<string>MaisonNeue-Mono.ttf</string>
+		<string>AirbnbCereal-Black.ttf</string>
+		<string>AirbnbCereal-Bold.ttf</string>
+		<string>AirbnbCereal-Book.ttf</string>
+		<string>AirbnbCereal-ExtraBold.ttf</string>
+		<string>AirbnbCereal-Light.ttf</string>
+		<string>AirbnbCereal-Medium.ttf</string>
 	</array>
 </dict>
 </plist>

@@ -5,6 +5,7 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* GoodMorningTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* GoodMorningTests.m */; };
 		0210BC6DE5B522E84FB7EE87 /* libPods-GoodMorning.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 711E335109BAA2A431145AA9 /* libPods-GoodMorning.a */; };
@@ -12,16 +13,28 @@
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1C2B1315C8D6471E97242437 /* AirbnbCereal-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B8B8E6F8911F486D9D45C762 /* AirbnbCereal-Bold.ttf */; };
+		27554BE935924E5C9F133125 /* MaisonNeue-Mono.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4607BA518EE046C88376B3EA /* MaisonNeue-Mono.ttf */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* GoodMorningTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* GoodMorningTests.m */; };
 		3BD4026D4C407A7E8C51B6CE /* libPods-GoodMorning-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5501030D423773EC002C8D85 /* libPods-GoodMorning-tvOSTests.a */; };
+		5276B34FE2A84C968F99BF8A /* MaisonNeue-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 023C920913B34EED8FE78FFD /* MaisonNeue-Bold.ttf */; };
+		52E6807AF5A14D7D96CE6D05 /* AirbnbCereal-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B7792C75C1F34661B640D805 /* AirbnbCereal-Book.ttf */; };
 		53410C8046A7C40C27CC0A38 /* libPods-GoodMorning-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DEAFD204C4D9DD0489262272 /* libPods-GoodMorning-tvOS.a */; };
-		A5DBAD46AF8FA66A367856D5 /* libPods-GoodMorningTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C8C424E45AC93007B6A299C /* libPods-GoodMorningTests.a */; };
-		FEF4ABA1BFED425687641E28 /* Eina03-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8EFBDFCA5091465D8197FA8D /* Eina03-bold.ttf */; };
-		B1C548B159214B1EA1E2A6EC /* Eina03-regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 61C2393F9C3F4DDF9854940E /* Eina03-regular.ttf */; };
+		60E902138CAE4070B48E5E74 /* MaisonNeue-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2C3C349E7649425487353E45 /* MaisonNeue-Book.ttf */; };
 		6A06F4FCEA824FF9BDF20CC6 /* Eina03-semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5116E844C5E24DB4B9442931 /* Eina03-semibold.ttf */; };
+		76E21A9B75DE4D259F8F9CB2 /* MaisonNeue-Demi.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D095332721C4B5BBC3DF491 /* MaisonNeue-Demi.ttf */; };
+		7FB3E70723ED401AB734B324 /* AirbnbCereal-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1B224F9703144198B43DE72D /* AirbnbCereal-Black.ttf */; };
+		895CB73841184AAE8C84B3A5 /* AirbnbCereal-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8629F1D6EA3F4ED59823153C /* AirbnbCereal-ExtraBold.ttf */; };
+		A5DBAD46AF8FA66A367856D5 /* libPods-GoodMorningTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C8C424E45AC93007B6A299C /* libPods-GoodMorningTests.a */; };
+		B1C548B159214B1EA1E2A6EC /* Eina03-regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 61C2393F9C3F4DDF9854940E /* Eina03-regular.ttf */; };
+		CB6EA027F72F4DF79FA247A4 /* MaisonNeue-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FDDC53CAFF5449AC949AA7BE /* MaisonNeue-Light.ttf */; };
+		DC2DA6ED746446F6BFEED81D /* AirbnbCereal-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B4FFD0F5BEF741938BE89A9E /* AirbnbCereal-Medium.ttf */; };
+		DD7C2ABC153E42B288CB6B6A /* AirbnbCereal-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0BDF90A8C8924292AA45FC29 /* AirbnbCereal-Light.ttf */; };
+		E6419E9903AE4E1FB7D702DC /* MaisonNeue-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3285D7F0AD6D49AB8CACF93D /* MaisonNeue-Medium.ttf */; };
+		FEF4ABA1BFED425687641E28 /* Eina03-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8EFBDFCA5091465D8197FA8D /* Eina03-bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,7 +59,9 @@
 		00E356EE1AD99517003FC87E /* GoodMorningTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GoodMorningTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* GoodMorningTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GoodMorningTests.m; sourceTree = "<group>"; };
+		023C920913B34EED8FE78FFD /* MaisonNeue-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MaisonNeue-Bold.ttf"; path = "../assets/fonts/MaisonNeue-Bold.ttf"; sourceTree = "<group>"; };
 		05EA43DE7D48EC22DD7B0EF8 /* Pods-GoodMorning-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoodMorning-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-GoodMorning-tvOSTests/Pods-GoodMorning-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		0BDF90A8C8924292AA45FC29 /* AirbnbCereal-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "AirbnbCereal-Light.ttf"; path = "../assets/fonts/AirbnbCereal-Light.ttf"; sourceTree = "<group>"; };
 		1222EF91C5AF88E58766A4D6 /* Pods-GoodMorningTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoodMorningTests.release.xcconfig"; path = "Target Support Files/Pods-GoodMorningTests/Pods-GoodMorningTests.release.xcconfig"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* GoodMorning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoodMorning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = GoodMorning/AppDelegate.h; sourceTree = "<group>"; };
@@ -55,23 +70,33 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = GoodMorning/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = GoodMorning/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = GoodMorning/main.m; sourceTree = "<group>"; };
+		1B224F9703144198B43DE72D /* AirbnbCereal-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "AirbnbCereal-Black.ttf"; path = "../assets/fonts/AirbnbCereal-Black.ttf"; sourceTree = "<group>"; };
+		2C3C349E7649425487353E45 /* MaisonNeue-Book.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MaisonNeue-Book.ttf"; path = "../assets/fonts/MaisonNeue-Book.ttf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* GoodMorning-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GoodMorning-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* GoodMorning-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GoodMorning-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3285D7F0AD6D49AB8CACF93D /* MaisonNeue-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MaisonNeue-Medium.ttf"; path = "../assets/fonts/MaisonNeue-Medium.ttf"; sourceTree = "<group>"; };
+		3D095332721C4B5BBC3DF491 /* MaisonNeue-Demi.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MaisonNeue-Demi.ttf"; path = "../assets/fonts/MaisonNeue-Demi.ttf"; sourceTree = "<group>"; };
+		4607BA518EE046C88376B3EA /* MaisonNeue-Mono.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MaisonNeue-Mono.ttf"; path = "../assets/fonts/MaisonNeue-Mono.ttf"; sourceTree = "<group>"; };
 		46AF18B32B0F0C1AE5682B37 /* Pods-GoodMorning-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoodMorning-tvOS.release.xcconfig"; path = "Target Support Files/Pods-GoodMorning-tvOS/Pods-GoodMorning-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		4AC6F05712FB115C6E359471 /* Pods-GoodMorning.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoodMorning.release.xcconfig"; path = "Target Support Files/Pods-GoodMorning/Pods-GoodMorning.release.xcconfig"; sourceTree = "<group>"; };
 		4C8C424E45AC93007B6A299C /* libPods-GoodMorningTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GoodMorningTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5116E844C5E24DB4B9442931 /* Eina03-semibold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Eina03-semibold.ttf"; path = "../assets/fonts/Eina03-semibold.ttf"; sourceTree = "<group>"; };
 		5501030D423773EC002C8D85 /* libPods-GoodMorning-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GoodMorning-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57F46ABAE9BFC94858893AFE /* Pods-GoodMorning.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoodMorning.debug.xcconfig"; path = "Target Support Files/Pods-GoodMorning/Pods-GoodMorning.debug.xcconfig"; sourceTree = "<group>"; };
 		5928A081D22D7216BB900EA2 /* Pods-GoodMorningTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoodMorningTests.debug.xcconfig"; path = "Target Support Files/Pods-GoodMorningTests/Pods-GoodMorningTests.debug.xcconfig"; sourceTree = "<group>"; };
+		61C2393F9C3F4DDF9854940E /* Eina03-regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Eina03-regular.ttf"; path = "../assets/fonts/Eina03-regular.ttf"; sourceTree = "<group>"; };
 		711E335109BAA2A431145AA9 /* libPods-GoodMorning.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GoodMorning.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		76FB10B3C1B73BA5BD161EAE /* Pods-GoodMorning-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoodMorning-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-GoodMorning-tvOS/Pods-GoodMorning-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		7F8A444E5F0A2A589DE5E416 /* Pods-GoodMorning-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoodMorning-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-GoodMorning-tvOSTests/Pods-GoodMorning-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		8629F1D6EA3F4ED59823153C /* AirbnbCereal-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "AirbnbCereal-ExtraBold.ttf"; path = "../assets/fonts/AirbnbCereal-ExtraBold.ttf"; sourceTree = "<group>"; };
+		8EFBDFCA5091465D8197FA8D /* Eina03-bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Eina03-bold.ttf"; path = "../assets/fonts/Eina03-bold.ttf"; sourceTree = "<group>"; };
+		B4FFD0F5BEF741938BE89A9E /* AirbnbCereal-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "AirbnbCereal-Medium.ttf"; path = "../assets/fonts/AirbnbCereal-Medium.ttf"; sourceTree = "<group>"; };
+		B7792C75C1F34661B640D805 /* AirbnbCereal-Book.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "AirbnbCereal-Book.ttf"; path = "../assets/fonts/AirbnbCereal-Book.ttf"; sourceTree = "<group>"; };
+		B8B8E6F8911F486D9D45C762 /* AirbnbCereal-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "AirbnbCereal-Bold.ttf"; path = "../assets/fonts/AirbnbCereal-Bold.ttf"; sourceTree = "<group>"; };
 		DEAFD204C4D9DD0489262272 /* libPods-GoodMorning-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GoodMorning-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		8EFBDFCA5091465D8197FA8D /* Eina03-bold.ttf */ = {isa = PBXFileReference; name = "Eina03-bold.ttf"; path = "../assets/fonts/Eina03-bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		61C2393F9C3F4DDF9854940E /* Eina03-regular.ttf */ = {isa = PBXFileReference; name = "Eina03-regular.ttf"; path = "../assets/fonts/Eina03-regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		5116E844C5E24DB4B9442931 /* Eina03-semibold.ttf */ = {isa = PBXFileReference; name = "Eina03-semibold.ttf"; path = "../assets/fonts/Eina03-semibold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FDDC53CAFF5449AC949AA7BE /* MaisonNeue-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MaisonNeue-Light.ttf"; path = "../assets/fonts/MaisonNeue-Light.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,7 +178,6 @@
 				5928A081D22D7216BB900EA2 /* Pods-GoodMorningTests.debug.xcconfig */,
 				1222EF91C5AF88E58766A4D6 /* Pods-GoodMorningTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -168,6 +192,28 @@
 				4C8C424E45AC93007B6A299C /* libPods-GoodMorningTests.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		40348D7DA34544FFA6D7CA53 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8EFBDFCA5091465D8197FA8D /* Eina03-bold.ttf */,
+				61C2393F9C3F4DDF9854940E /* Eina03-regular.ttf */,
+				5116E844C5E24DB4B9442931 /* Eina03-semibold.ttf */,
+				023C920913B34EED8FE78FFD /* MaisonNeue-Bold.ttf */,
+				2C3C349E7649425487353E45 /* MaisonNeue-Book.ttf */,
+				3D095332721C4B5BBC3DF491 /* MaisonNeue-Demi.ttf */,
+				FDDC53CAFF5449AC949AA7BE /* MaisonNeue-Light.ttf */,
+				3285D7F0AD6D49AB8CACF93D /* MaisonNeue-Medium.ttf */,
+				4607BA518EE046C88376B3EA /* MaisonNeue-Mono.ttf */,
+				1B224F9703144198B43DE72D /* AirbnbCereal-Black.ttf */,
+				B8B8E6F8911F486D9D45C762 /* AirbnbCereal-Bold.ttf */,
+				B7792C75C1F34661B640D805 /* AirbnbCereal-Book.ttf */,
+				8629F1D6EA3F4ED59823153C /* AirbnbCereal-ExtraBold.ttf */,
+				0BDF90A8C8924292AA45FC29 /* AirbnbCereal-Light.ttf */,
+				B4FFD0F5BEF741938BE89A9E /* AirbnbCereal-Medium.ttf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -203,17 +249,6 @@
 			);
 			name = Products;
 			sourceTree = "<group>";
-		};
-		40348D7DA34544FFA6D7CA53 /* Resources */ = {
-			isa = "PBXGroup";
-			children = (
-				8EFBDFCA5091465D8197FA8D /* Eina03-bold.ttf */,
-				61C2393F9C3F4DDF9854940E /* Eina03-regular.ttf */,
-				5116E844C5E24DB4B9442931 /* Eina03-semibold.ttf */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-			path = "";
 		};
 /* End PBXGroup section */
 
@@ -302,12 +337,15 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 940;
+				LastUpgradeCheck = 1020;
 				ORGANIZATIONNAME = Facebook;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
+					};
+					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = 949DG67Q8T;
 					};
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -322,7 +360,7 @@
 			};
 			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "GoodMorning" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
@@ -358,6 +396,18 @@
 				FEF4ABA1BFED425687641E28 /* Eina03-bold.ttf in Resources */,
 				B1C548B159214B1EA1E2A6EC /* Eina03-regular.ttf in Resources */,
 				6A06F4FCEA824FF9BDF20CC6 /* Eina03-semibold.ttf in Resources */,
+				5276B34FE2A84C968F99BF8A /* MaisonNeue-Bold.ttf in Resources */,
+				60E902138CAE4070B48E5E74 /* MaisonNeue-Book.ttf in Resources */,
+				76E21A9B75DE4D259F8F9CB2 /* MaisonNeue-Demi.ttf in Resources */,
+				CB6EA027F72F4DF79FA247A4 /* MaisonNeue-Light.ttf in Resources */,
+				E6419E9903AE4E1FB7D702DC /* MaisonNeue-Medium.ttf in Resources */,
+				27554BE935924E5C9F133125 /* MaisonNeue-Mono.ttf in Resources */,
+				7FB3E70723ED401AB734B324 /* AirbnbCereal-Black.ttf in Resources */,
+				1C2B1315C8D6471E97242437 /* AirbnbCereal-Bold.ttf in Resources */,
+				52E6807AF5A14D7D96CE6D05 /* AirbnbCereal-Book.ttf in Resources */,
+				895CB73841184AAE8C84B3A5 /* AirbnbCereal-ExtraBold.ttf in Resources */,
+				DD7C2ABC153E42B288CB6B6A /* AirbnbCereal-Light.ttf in Resources */,
+				DC2DA6ED746446F6BFEED81D /* AirbnbCereal-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -648,6 +698,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = 949DG67Q8T;
 				INFOPLIST_FILE = GoodMorning/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -667,6 +718,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 949DG67Q8T;
 				INFOPLIST_FILE = GoodMorning/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -794,6 +846,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -847,6 +900,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
