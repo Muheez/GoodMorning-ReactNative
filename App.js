@@ -11,6 +11,7 @@ import {
   TouchableOpacity
 } from 'react-native';
 import TimeAndDate from './components/TimeAndDate';
+import Notifications from './components/Notifications';
 
 const screen = Dimensions.get("screen");
 
@@ -175,7 +176,8 @@ class App extends Component {
       headerTextAppearance,
       view1Appearance,
       view2Appearance,
-      view3Appearance
+      view3Appearance,
+      viewCount
     } = this.state;
 
     const headerTextPositionLeft = headerTextAppearance.x.interpolate({
@@ -237,7 +239,7 @@ class App extends Component {
               <TouchableOpacity style={{ flex: 1 }}
                 activeOpacity={1}
                 onPress={this.onView2Click} >
-
+                <Notifications viewCount={viewCount} />
               </TouchableOpacity>
             </Animated.View>
             <Animated.View style={[styles.view1, { left: view1PositionLeft, top: view1PositionTop }]}>
