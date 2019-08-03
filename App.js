@@ -12,6 +12,7 @@ import {
 } from 'react-native';
 import TimeAndDate from './components/TimeAndDate';
 import Notifications from './components/Notifications';
+import Reminders from './components/Reminders';
 
 const screen = Dimensions.get("screen");
 
@@ -230,9 +231,9 @@ class App extends Component {
           <View style={{ flex: 1 }}>
             <Animated.View style={[styles.view3, { left: view3PositionLeft, top: view3PositionTop }]}>
               <TouchableOpacity style={{ flex: 1 }}
-                activeOpacity={0}
+                activeOpacity={1}
                 onPress={this.onView3Click} >
-
+                <Reminders viewCount={viewCount} />
               </TouchableOpacity>
             </Animated.View>
             <Animated.View style={[styles.view2, { left: view2PositionLeft, top: view2PositionTop }]}>
